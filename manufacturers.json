@@ -1,0 +1,388 @@
+[
+    {
+        "manufacturer": "Tesla",
+        "company_info": {
+            "founded_At": 1057017600,
+            "country": "Unites States",
+            "state": "California",
+            "city": "San Carlos"
+        },
+        "logo": "tesla-logo.png",
+        "models": [
+            {
+                "name": "Model X",
+                "MSPR": "188964",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "2-4"
+            },
+            {
+                "name": "Model 2",
+                "MSPR": "168050",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "2-4"
+            },
+            {
+                "name": "Model 3",
+                "MSPR": "170100",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "2-4"
+            },
+            {
+                "name": "Model S",
+                "MSPR": "175100",
+                "Engine": "520-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "2-4"
+            },
+            {
+                "name": "Model Y",
+                "MSPR": "190100",
+                "Engine": "520-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "2-4"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "company_info": {
+            "founded_At": -1493510400,
+            "country": "Unites Kindom",
+            "state": "",
+            "city": "Blackpool"
+        },
+        "logo": "jaguar-logo.png",
+        "models": [
+            {
+                "name": "F-PACE",
+                "MSPR": "188964",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            },
+            {
+                "name": "E-PACE",
+                "MSPR": "168050",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            },
+            {
+                "name": "XF",
+                "MSPR": "90942",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "5"
+            },
+            {
+                "name": "I‑PACE",
+                "MSPR": "84942",
+                "Engine": "520-hp, 6.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            },
+            {
+                "name": "XE",
+                "MSPR": "195100",
+                "Engine": "520-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "5"
+            }
+        ]
+    },
+    {
+        "manufacturer": "BMW",
+        "company_info": {
+            "founded_At": -1493510400,
+            "country": "Unites Kindom",
+            "state": "",
+            "city": "Blackpool"
+        },
+        "logo": "BMW-logo.png",
+        "models": [
+            {
+                "name": "X1 Sports Activity",
+                "MSPR": "218000",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "2-4"
+            },
+            {
+                "name": "i8 Couple",
+                "MSPR": "1518000",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "2-4"
+            },
+            {
+                "name": "X3 M Sport Activity",
+                "MSPR": "95000",
+                "Engine": "510-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "5"
+            },
+            {
+                "name": "2 Series Coupe",
+                "MSPR": "120000",
+                "Engine": "520-hp, 6.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "2"
+            },
+            {
+                "name": "M4 Coupe",
+                "MSPR": "200000",
+                "Engine": "520-hp, 6.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "5"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Opel",
+        "company_info": {
+            "founded_At": -4542480000,
+            "country": "Germany",
+            "state": "",
+            "city": "Ruesselsheim"
+        },
+        "logo": "opel-logo.jpg",
+        "models": [
+            {
+                "name": "Adam",
+                "MSPR": "12000",
+                "Engine": "510-hp, 1.0-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "3"
+            },
+            {
+                "name": "Adam Roks",
+                "MSPR": "20000",
+                "Engine": "510-hp, 1.4-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "3"
+            },
+            {
+                "name": "Agila",
+                "MSPR": "15000",
+                "Engine": "510-hp, 1.3-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            },
+            {
+                "name": "Corsa",
+                "MSPR": "13000",
+                "Engine": "520-hp, 1.0-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "2"
+            },
+            {
+                "name": "Astra",
+                "MSPR": "10000",
+                "Engine": "520-hp, 1.5-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Bugatti",
+        "company_info": {
+            "founded_At": -1924992000,
+            "country": "Germany",
+            "state": "",
+            "city": "Malzeme"
+        },
+        "logo": "bugatti-logo.png",
+        "models": [
+            {
+                "name": "Chiron",
+                "MSPR": "2849217,14",
+                "Engine": "510-hp, 8.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "2"
+            },
+            {
+                "name": "Centodieci",
+                "MSPR": "2900000",
+                "Engine": "510-hp, 8.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "2"
+            },
+            {
+                "name": "Veyron grand sport",
+                "MSPR": "3000000",
+                "Engine": "510-hp, 8.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "2"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Ford",
+        "company_info": {
+            "founded_At": -2100038400,
+            "country": "Unites States",
+            "state": "Michig",
+            "city": "Dearborn"
+        },
+        "logo": "ford-logo.jpg",
+        "models": [
+            {
+                "name": "C-MAX",
+                "MSPR": "100000",
+                "Engine": "510-hp, 1.6-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            },
+            {
+                "name": "Fiesta ST",
+                "MSPR": "120000",
+                "Engine": "510-hp, 1.5-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            },
+            {
+                "name": "Transit",
+                "MSPR": "150000",
+                "Engine": "510-hp, 1.5-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "7"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Lada",
+        "company_info": {
+            "founded_At": -126230400,
+            "country": "Russia",
+            "state": "",
+            "city": "Moscow"
+        },
+        "logo": "lada-logo.png",
+        "models": [
+            {
+                "name": "Granta Cross",
+                "MSPR": "7927,14",
+                "Engine": "510-hp, 1.6-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            },
+            {
+                "name": "Granta Sport",
+                "MSPR": "120000",
+                "Engine": "510-hp, 1.6-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            },
+            {
+                "name": "Kalina",
+                "MSPR": "8000",
+                "Engine": "510-hp, 1.6-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Audi",
+        "company_info": {
+            "founded_At": -1908057600,
+            "country": "Germany",
+            "state": "",
+            "city": "Ingolst"
+        },
+        "logo": "audi-logo.png",
+        "models": [
+            {
+                "name": "E-tron",
+                "MSPR": "500000",
+                "Engine": "510-hp, 5.0-liter V-12",
+                "Drivetrain": "RWD",
+                "Seats": "5"
+            },
+            {
+                "name": "SQ8",
+                "MSPR": "600000",
+                "Engine": "510-hp, 4.5-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            },
+            {
+                "name": "SQ2",
+                "MSPR": "700000",
+                "Engine": "510-hp, 2.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Mercedes",
+        "company_info": {
+            "founded_At": -1373241600,
+            "country": "Germany",
+            "state": "",
+            "city": "Stuttgart"
+        },
+        "logo": "mersedes-logo.png",
+        "models": [
+            {
+                "name": "EQC",
+                "MSPR": "550000",
+                "Engine": "510-hp EE",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            },
+            {
+                "name": "GLS AMG",
+                "MSPR": "650000",
+                "Engine": "510-hp, 4.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "7"
+            },
+            {
+                "name": "GLS MAYBACH ",
+                "MSPR": "750000",
+                "Engine": "510-hp, 4.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            }
+        ]
+    },
+    {
+        "manufacturer": "Mitsubishi",
+        "company_info": {
+            "founded_At": -3155673600,
+            "country": "Japan",
+            "state": "",
+            "city": "Tokyo"
+        },
+        "logo": "mitsubishi-logo.jpg",
+        "models": [
+            {
+                "name": "Eclipse Cross",
+                "MSPR": "570000",
+                "Engine": "510-hp, 2.3-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            },
+            {
+                "name": "OUTLANDER",
+                "MSPR": "680000",
+                "Engine": "510-hp, 4.0-liter V-12",
+                "Drivetrain": "FWD",
+                "Seats": "5"
+            },
+            {
+                "name": "Attrage",
+                "MSPR": "100000",
+                "Engine": "510-hp, 4.0-liter V-12",
+                "Drivetrain": "AWD",
+                "Seats": "5"
+            }
+        ]
+    }
+]
